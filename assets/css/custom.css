@@ -1,0 +1,10 @@
+.header-main-left-caption {
+    word-spacing: 5px;
+}
+
+/* header responsive nav styles */
+
+.show-cat {
+    right: 0;
+    transition: all 0.2s ease-out;
+}
